@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>001</SubChainId>
+  <StoreId>005</StoreId>
+  <BikoretNo>5</BikoretNo>
+  <DllVerNo>8.0.1.3</DllVerNo>
+  <Items Count="12">
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>4770237049443</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גלידת קרמל ברולSVALYA 70</ItemName>
+      <ManufacturerName>ZVAICZDES PIENO AB</ManufacturerName>
+      <ManufactureCountry>LT</ManufactureCountry>
+      <ManufacturerItemDescription>גלידת קרמל ברולה</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>70.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>11.29</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>4810168038984</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גליד.וניל סנדביץ80 YUKKI</ItemName>
+      <ManufacturerName>---</ManufacturerName>
+      <ManufactureCountry>BY</ManufactureCountry>
+      <ManufacturerItemDescription>גליד.וניל סנדביץ80 YUKKI</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>80.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>9.88</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>4823097809815</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שלגון אוכמניות 85ג RUD</ItemName>
+      <ManufacturerName>---</ManufacturerName>
+      <ManufactureCountry>UA</ManufactureCountry>
+      <ManufacturerItemDescription>שלגון אוכמניות 85ג RUD</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>85.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>9.29</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>4823097811887</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גלידת שמנת אסקימו קרמל70</ItemName>
+      <ManufacturerName>MASLOZAVO ZHITOMIRSI JSC</ManufacturerName>
+      <ManufactureCountry>UA</ManufactureCountry>
+      <ManufacturerItemDescription>גלידת שמנת אסקימ</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>70.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>11.29</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>4823097815878</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>אסקימוס וניל שוקו RUD 70</ItemName>
+      <ManufacturerName>---</ManufacturerName>
+      <ManufactureCountry>UA</ManufactureCountry>
+      <ManufacturerItemDescription>אסקימוס וניל שוק</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>70.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>11.29</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>7290000928739</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>צלעות טלה טרי )עצמי( מחי</ItemName>
+      <ManufacturerName>שונות</ManufacturerName>
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>צלעות טלה טרי</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>0.00</Quantity>
+      <bIsWeighted>1</bIsWeighted>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>199.90</ItemPrice>
+      <UnitOfMeasurePrice>199.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>7290000928746</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>כתף טלה טרי )עצמי( מחיר</ItemName>
+      <ManufacturerName>שונות</ManufacturerName>
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>כתף טלה טרי</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>0.00</Quantity>
+      <bIsWeighted>1</bIsWeighted>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>119.90</ItemPrice>
+      <UnitOfMeasurePrice>119.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:21</PriceUpdateDate>
+      <ItemCode>7290000928777</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>צוואר כבש טרי (עצמי)משקל</ItemName>
+      <ManufacturerName>שונות</ManufacturerName>
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>צוואר כבש טרי</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>0.00</Quantity>
+      <bIsWeighted>1</bIsWeighted>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>89.90</ItemPrice>
+      <UnitOfMeasurePrice>89.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 08:30</PriceUpdateDate>
+      <ItemCode>7290000960548</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מלפפון אורגני</ItemName>
+      <ManufacturerName />
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>מלפפון אורגני</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>0.00</Quantity>
+      <bIsWeighted>1</bIsWeighted>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>11.90</ItemPrice>
+      <UnitOfMeasurePrice>11.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 08:30</PriceUpdateDate>
+      <ItemCode>7290000960906</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בצל יבש אורגני</ItemName>
+      <ManufacturerName />
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>בצל יבש אורגני</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>0.00</Quantity>
+      <bIsWeighted>1</bIsWeighted>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>8.90</ItemPrice>
+      <UnitOfMeasurePrice>8.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 09:33</PriceUpdateDate>
+      <ItemCode>7290000967684</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בננה מובחרת</ItemName>
+      <ManufacturerName>קטיף.</ManufacturerName>
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>בננה מובחרת</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>0.00</Quantity>
+      <bIsWeighted>1</bIsWeighted>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>13.90</ItemPrice>
+      <UnitOfMeasurePrice>13.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2025-03-19 06:20</PriceUpdateDate>
+      <ItemCode>7290101112167</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מאגדת יוגורטיה 4 יח'</ItemName>
+      <ManufacturerName>---</ManufacturerName>
+      <ManufactureCountry>IL</ManufactureCountry>
+      <ManufacturerItemDescription>מאגדת יוגורטיה 4 יח</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>320.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>0</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>9.34</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+  </Items>
+</root>

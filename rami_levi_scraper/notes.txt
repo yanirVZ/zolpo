@@ -1,0 +1,17 @@
+.exe --user-data-chromedir="C:\zolpo\profile_data" --profile-directory=Default
+# הרצה
+#קישור 
+https://url.publishedprices.co.il/file
+# אלטרנטיבה להרצה
+# עוד אלטרנטיבה
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\zolpo\profile_data" --profile-directory=Default
+טיפ לסיום
+כדי לא להתחבר שוב בעתיד, פשוט:
+
+תשתמש תמיד בפרופיל הזה.
+
+ואל תמחוק את התיקייה C:\zolpo\profile_data.
+
+QNtQ-O5JurDaPIlbN2u_O1ku8SmYv445NS92HF_f_R4 cookies
+0GCtYOFhur8VtyEDY8xhsXr1vXld6xdXyhbfVeynnCc
+pguH5U5AITV5JguS3rnqXTAej1iPIkJl_Fcp9OiwWDY

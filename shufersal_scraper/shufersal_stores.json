@@ -1,0 +1,1658 @@
+[
+  {
+    "StoreID": 1,
+    "StoreName": "1 - שלי ת\"א- בן יהודה"
+  },
+  {
+    "StoreID": 2,
+    "StoreName": "2 - שלי ירושלים- אגרון"
+  },
+  {
+    "StoreID": 3,
+    "StoreName": "3 - שלי גבעתיים- סירקין"
+  },
+  {
+    "StoreID": 4,
+    "StoreName": "4 - שלי חיפה- כרמל"
+  },
+  {
+    "StoreID": 5,
+    "StoreName": "5 - שלי ירושלים- יובל"
+  },
+  {
+    "StoreID": 7,
+    "StoreName": "7 - שלי ת\"א- ארלוזורוב"
+  },
+  {
+    "StoreID": 9,
+    "StoreName": "9 - שלי נתניה- ויצמן"
+  },
+  {
+    "StoreID": 11,
+    "StoreName": "11 - שלי ת\"א- נורדאו"
+  },
+  {
+    "StoreID": 12,
+    "StoreName": "12 - יש בני ברק- ירושלים"
+  },
+  {
+    "StoreID": 13,
+    "StoreName": "13 - דיל בית שמש- העליה"
+  },
+  {
+    "StoreID": 14,
+    "StoreName": "14 - דיל ברנע אשקלון"
+  },
+  {
+    "StoreID": 15,
+    "StoreName": "15 - יש פ\"ת- רוטשילד"
+  },
+  {
+    "StoreID": 17,
+    "StoreName": "17 - שלי חיפה- חורב"
+  },
+  {
+    "StoreID": 18,
+    "StoreName": "18 - דיל חולון-קרן היסוד"
+  },
+  {
+    "StoreID": 19,
+    "StoreName": "19 - שלי חיפה- זיו"
+  },
+  {
+    "StoreID": 20,
+    "StoreName": "20 - שלי רחובות- הרצל"
+  },
+  {
+    "StoreID": 21,
+    "StoreName": "21 - יש מרים ירושלים- פארן"
+  },
+  {
+    "StoreID": 22,
+    "StoreName": "22 - שלי נתניה- סמילנסקי"
+  },
+  {
+    "StoreID": 23,
+    "StoreName": "23 - שלי מיתר"
+  },
+  {
+    "StoreID": 24,
+    "StoreName": "24 - שלי אשדוד- הנביאים"
+  },
+  {
+    "StoreID": 25,
+    "StoreName": "25 - אקספרס ארבל כ\"ס"
+  },
+  {
+    "StoreID": 26,
+    "StoreName": "26 - BE בלוך גבעתיים"
+  },
+  {
+    "StoreID": 27,
+    "StoreName": "27 - שלי רעננה- אחוזה"
+  },
+  {
+    "StoreID": 28,
+    "StoreName": "28 - שלי ת\"א- צה\"ל"
+  },
+  {
+    "StoreID": 29,
+    "StoreName": "29 - אקספרס האודם חריש"
+  },
+  {
+    "StoreID": 30,
+    "StoreName": "30 - שלי רמת גן- קריניצי"
+  },
+  {
+    "StoreID": 32,
+    "StoreName": "32 - שלי רמת גן- קסם"
+  },
+  {
+    "StoreID": 33,
+    "StoreName": "33 - שלי חיפה- סטלה"
+  },
+  {
+    "StoreID": 34,
+    "StoreName": "34 - שלי רמת השרון- סוקולוב"
+  },
+  {
+    "StoreID": 35,
+    "StoreName": "35 - דיל אקסטרה באר-שבע ולפסו"
+  },
+  {
+    "StoreID": 36,
+    "StoreName": "36 - שלי כ\"ס- רוטשילד"
+  },
+  {
+    "StoreID": 38,
+    "StoreName": "38 - שלי חיפה- דניה"
+  },
+  {
+    "StoreID": 39,
+    "StoreName": "39 - שלי ת\"א- ברזיל"
+  },
+  {
+    "StoreID": 40,
+    "StoreName": "40 - שלי ב\"ש- עומר"
+  },
+  {
+    "StoreID": 41,
+    "StoreName": "41 - BE דיזנגוף סנטר"
+  },
+  {
+    "StoreID": 42,
+    "StoreName": "42 - שלי ירושלים- ניות"
+  },
+  {
+    "StoreID": 43,
+    "StoreName": "43 - שלי הוד השרון- הבנים"
+  },
+  {
+    "StoreID": 45,
+    "StoreName": "45 - דיל ירושלים- תלפיות"
+  },
+  {
+    "StoreID": 49,
+    "StoreName": "49 - דיל ב\"ש- הר בוקר"
+  },
+  {
+    "StoreID": 50,
+    "StoreName": "50 - שלי מבשרת ציון"
+  },
+  {
+    "StoreID": 51,
+    "StoreName": "51 - אקספרס הרצליה"
+  },
+  {
+    "StoreID": 56,
+    "StoreName": "56 - אקספרס חריש הרימון"
+  },
+  {
+    "StoreID": 57,
+    "StoreName": "57 - שלי רמת השרון- אוסישקין"
+  },
+  {
+    "StoreID": 61,
+    "StoreName": "61 - אקספרס צור משה"
+  },
+  {
+    "StoreID": 62,
+    "StoreName": "62 - יש חסד רכסים"
+  },
+  {
+    "StoreID": 65,
+    "StoreName": "65 - דיל ב\"ש- צ'ורלי"
+  },
+  {
+    "StoreID": 68,
+    "StoreName": "68 - דיל כורדני"
+  },
+  {
+    "StoreID": 69,
+    "StoreName": "69 - שלי ת\"א- רמת אביב ב"
+  },
+  {
+    "StoreID": 70,
+    "StoreName": "70 - שלי רמת גן- מרום נווה"
+  },
+  {
+    "StoreID": 71,
+    "StoreName": "71 - יוניברס תל חנן נשר"
+  },
+  {
+    "StoreID": 72,
+    "StoreName": "72 - שלי רעות"
+  },
+  {
+    "StoreID": 73,
+    "StoreName": "73 - יש חסד אשדוד"
+  },
+  {
+    "StoreID": 76,
+    "StoreName": "76 - דיל אריאל"
+  },
+  {
+    "StoreID": 77,
+    "StoreName": "77 - דיל חריש"
+  },
+  {
+    "StoreID": 78,
+    "StoreName": "78 - יש הר נוף ירושלים-שאולזו"
+  },
+  {
+    "StoreID": 79,
+    "StoreName": "79 - אקספרס חריש"
+  },
+  {
+    "StoreID": 80,
+    "StoreName": "80 - שלי ראשל\"צ- נווה הדרים"
+  },
+  {
+    "StoreID": 81,
+    "StoreName": "81 - יש חסד מודיעין עלית דרום"
+  },
+  {
+    "StoreID": 82,
+    "StoreName": "82 - אקספרס חולון"
+  },
+  {
+    "StoreID": 83,
+    "StoreName": "83 - דיל ב\"ש- שאול המלך"
+  },
+  {
+    "StoreID": 84,
+    "StoreName": "84 - אקספרס בית חשמונאי"
+  },
+  {
+    "StoreID": 87,
+    "StoreName": "87 - דיל רעננה- החרושת"
+  },
+  {
+    "StoreID": 89,
+    "StoreName": "89 - דיל עזריאלי - רמלה"
+  },
+  {
+    "StoreID": 90,
+    "StoreName": "90 - אקספרס גב ים באר שבע"
+  },
+  {
+    "StoreID": 91,
+    "StoreName": "91 - דיל עמק חפר- אזור תעשיה"
+  },
+  {
+    "StoreID": 92,
+    "StoreName": "92 - דיל אשדוד- שבט לוי"
+  },
+  {
+    "StoreID": 93,
+    "StoreName": "93 - שלי יהוד- סביונים"
+  },
+  {
+    "StoreID": 95,
+    "StoreName": "95 - דיל חדרה- קניון אורות"
+  },
+  {
+    "StoreID": 96,
+    "StoreName": "96 - דיל חדרה- הפרדס"
+  },
+  {
+    "StoreID": 97,
+    "StoreName": "97 - דיל קרית שמונה- מתחם ביג"
+  },
+  {
+    "StoreID": 98,
+    "StoreName": "98 - דיל קרית טבעון- אלונים"
+  },
+  {
+    "StoreID": 101,
+    "StoreName": "101 - שלי הוד השרון- ק מרגלית"
+  },
+  {
+    "StoreID": 102,
+    "StoreName": "102 - שלי פרדסיה- הנשיא"
+  },
+  {
+    "StoreID": 103,
+    "StoreName": "103 - שלי שוהם- מרכז מסחרי"
+  },
+  {
+    "StoreID": 104,
+    "StoreName": "104 - שלי פ\"ת- גד מכנס"
+  },
+  {
+    "StoreID": 105,
+    "StoreName": "105 - דיל פ\"ת- אליעזר פרדימן"
+  },
+  {
+    "StoreID": 106,
+    "StoreName": "106 - יוניברס נס ציונה - הפטיש"
+  },
+  {
+    "StoreID": 109,
+    "StoreName": "109 - שלי ראש העין- ז'בוטינסקי"
+  },
+  {
+    "StoreID": 110,
+    "StoreName": "110 - דיל הפארק ב\"ש"
+  },
+  {
+    "StoreID": 111,
+    "StoreName": "111 - יש חסד טבריה עלית-לב האג"
+  },
+  {
+    "StoreID": 113,
+    "StoreName": "113 - דיל ראשל\"צ- גולדה מאיר"
+  },
+  {
+    "StoreID": 114,
+    "StoreName": "114 - דיל ירושלים-גילה"
+  },
+  {
+    "StoreID": 116,
+    "StoreName": "116 - שלי גבעתיים- מכתש"
+  },
+  {
+    "StoreID": 117,
+    "StoreName": "117 - שלי תל אביב-איכילוב"
+  },
+  {
+    "StoreID": 118,
+    "StoreName": "118 - דיל אילת הסתת"
+  },
+  {
+    "StoreID": 119,
+    "StoreName": "119 - דיל מודיעין- סנטר"
+  },
+  {
+    "StoreID": 121,
+    "StoreName": "121 - דיל נהריה- לוחמי הגטאות"
+  },
+  {
+    "StoreID": 122,
+    "StoreName": "122 - דיל יבנה- ברוש דרך הים"
+  },
+  {
+    "StoreID": 123,
+    "StoreName": "123 - דיל חולון- גולדה"
+  },
+  {
+    "StoreID": 124,
+    "StoreName": "124 - דיל בת ים- אורט ישראל"
+  },
+  {
+    "StoreID": 127,
+    "StoreName": "127 - אקספרס טירת הכרמל"
+  },
+  {
+    "StoreID": 128,
+    "StoreName": "128 - דיל טירת הכרמל- נחום חת"
+  },
+  {
+    "StoreID": 129,
+    "StoreName": "129 - דיל אקסטרה נתניה- המלאכה"
+  },
+  {
+    "StoreID": 130,
+    "StoreName": "130 - דיל נתניה- קלאוזנר עמליה"
+  },
+  {
+    "StoreID": 131,
+    "StoreName": "131 - אקספרס הוד השרון"
+  },
+  {
+    "StoreID": 132,
+    "StoreName": "132 - דיל ת\"א- השלום"
+  },
+  {
+    "StoreID": 133,
+    "StoreName": "133 - יש חסד ביתר עילית- הר\"ן"
+  },
+  {
+    "StoreID": 134,
+    "StoreName": "134 - יוניברס מודיעין- ישפרו סנטר"
+  },
+  {
+    "StoreID": 135,
+    "StoreName": "135 - יוניברס אשקלון- פאור סנטר"
+  },
+  {
+    "StoreID": 139,
+    "StoreName": "139 - דיל צפת- דובק ויצמן"
+  },
+  {
+    "StoreID": 140,
+    "StoreName": "140 - אקספרס תל חי"
+  },
+  {
+    "StoreID": 141,
+    "StoreName": "141 - דיל יוקנעם- שדרות רבין"
+  },
+  {
+    "StoreID": 142,
+    "StoreName": "142 - דיל זכרון- המייסדים"
+  },
+  {
+    "StoreID": 144,
+    "StoreName": "144 - דיל שבירו כפר סבא"
+  },
+  {
+    "StoreID": 145,
+    "StoreName": "145 - BE נתיבות"
+  },
+  {
+    "StoreID": 147,
+    "StoreName": "147 - אקספרס זכרון"
+  },
+  {
+    "StoreID": 148,
+    "StoreName": "148 - אקספרס מלצר רחובות"
+  },
+  {
+    "StoreID": 150,
+    "StoreName": "150 - אקספרס רודנסקי ת\"א"
+  },
+  {
+    "StoreID": 151,
+    "StoreName": "151 - דיל רעננה- קניון רננים"
+  },
+  {
+    "StoreID": 152,
+    "StoreName": "152 - דיל ערד-ישפרו המנוף"
+  },
+  {
+    "StoreID": 153,
+    "StoreName": "153 - דיל אופקים- ז'בוטינסקי"
+  },
+  {
+    "StoreID": 155,
+    "StoreName": "155 - דיל צור יגאל- מרכז מסחרי"
+  },
+  {
+    "StoreID": 159,
+    "StoreName": "159 - דיל רמת הנשיא חיפה"
+  },
+  {
+    "StoreID": 163,
+    "StoreName": "163 - דיל שדרות- הפלדה"
+  },
+  {
+    "StoreID": 164,
+    "StoreName": "164 - שלי רמתגן- ביאליק"
+  },
+  {
+    "StoreID": 166,
+    "StoreName": "166 - דיל אקסטרה אשדוד- הבושם"
+  },
+  {
+    "StoreID": 168,
+    "StoreName": "168 - שלי אשדוד- כינרת"
+  },
+  {
+    "StoreID": 169,
+    "StoreName": "169 - אקספרס באר שבע"
+  },
+  {
+    "StoreID": 171,
+    "StoreName": "171 - אקספרס אוסטשינסקי"
+  },
+  {
+    "StoreID": 173,
+    "StoreName": "173 - דיל כפר יונה"
+  },
+  {
+    "StoreID": 174,
+    "StoreName": "174 - דיל ערד- קניון"
+  },
+  {
+    "StoreID": 176,
+    "StoreName": "176 - שערי רווחה ירושלים"
+  },
+  {
+    "StoreID": 177,
+    "StoreName": "177 - דיל מצפה רמון- בן גוריון"
+  },
+  {
+    "StoreID": 178,
+    "StoreName": "178 - BE סגולה פתח תקווה"
+  },
+  {
+    "StoreID": 179,
+    "StoreName": "179 - שופרסל אקספרס הרוא\"ה רמת גן"
+  },
+  {
+    "StoreID": 180,
+    "StoreName": "180 - דיל ק.מוצקין- בן גוריון"
+  },
+  {
+    "StoreID": 181,
+    "StoreName": "181 - דיל אשקלון- רמז"
+  },
+  {
+    "StoreID": 182,
+    "StoreName": "182 - דיל דימונה- גולדה מאיר"
+  },
+  {
+    "StoreID": 183,
+    "StoreName": "183 - דיל אשדוד- הרצל"
+  },
+  {
+    "StoreID": 184,
+    "StoreName": "184 - דיל ראשל\"צ- זבוטינסקי"
+  },
+  {
+    "StoreID": 186,
+    "StoreName": "186 - אקספרס התשבי"
+  },
+  {
+    "StoreID": 187,
+    "StoreName": "187 - דיל קניון מעלה אדומים"
+  },
+  {
+    "StoreID": 188,
+    "StoreName": "188 - דיל ירוחם- צבי בורנשטיין"
+  },
+  {
+    "StoreID": 189,
+    "StoreName": "189 - דיל פרדס חנה"
+  },
+  {
+    "StoreID": 190,
+    "StoreName": "190 - דיל חצור- הגלילית"
+  },
+  {
+    "StoreID": 193,
+    "StoreName": "193 - שלי ראשל\"צ- מזרח"
+  },
+  {
+    "StoreID": 195,
+    "StoreName": "195 - יוניברס קריון- דרך עכו"
+  },
+  {
+    "StoreID": 199,
+    "StoreName": "199 - דיל בת ים- בלפור"
+  },
+  {
+    "StoreID": 201,
+    "StoreName": "201 - BE בריגה"
+  },
+  {
+    "StoreID": 203,
+    "StoreName": "203 - דיל רמלה לוד- הצופית"
+  },
+  {
+    "StoreID": 205,
+    "StoreName": "205 - דיל יהוד- אלטלף"
+  },
+  {
+    "StoreID": 207,
+    "StoreName": "207 - יש אור יהודה - אליהו סעדו"
+  },
+  {
+    "StoreID": 208,
+    "StoreName": "208 - דיל אילת נחל אורה"
+  },
+  {
+    "StoreID": 209,
+    "StoreName": "209 - דיל אשקלון- רוטשילד"
+  },
+  {
+    "StoreID": 210,
+    "StoreName": "210 - יוניברס ראשל\"צ- שמוטקין"
+  },
+  {
+    "StoreID": 211,
+    "StoreName": "211 - דיל כרמיאל- אזור התעשיה"
+  },
+  {
+    "StoreID": 212,
+    "StoreName": "212 - שלי חיפה- ורדיה"
+  },
+  {
+    "StoreID": 214,
+    "StoreName": "214 - דיל קרית גת- מלכי ישראל"
+  },
+  {
+    "StoreID": 215,
+    "StoreName": "215 - דיל בית שאן-ירושלים הביר"
+  },
+  {
+    "StoreID": 216,
+    "StoreName": "216 - שלי הודהשרון"
+  },
+  {
+    "StoreID": 218,
+    "StoreName": "218 - דיל עפולה- יצחק רבין"
+  },
+  {
+    "StoreID": 219,
+    "StoreName": "219 - יש חסד בני ברק- עזרא"
+  },
+  {
+    "StoreID": 222,
+    "StoreName": "222 - דיל רמות ב\"ש ב'"
+  },
+  {
+    "StoreID": 224,
+    "StoreName": "224 - אקספרס ראשל\"צ-נווה דקלים"
+  },
+  {
+    "StoreID": 226,
+    "StoreName": "226 - דיל כרמיאל"
+  },
+  {
+    "StoreID": 227,
+    "StoreName": "227 - דיל-איקאה קרית אתא"
+  },
+  {
+    "StoreID": 228,
+    "StoreName": "228 - שלי בנימינה - הגביע"
+  },
+  {
+    "StoreID": 229,
+    "StoreName": "229 - דיל ת\"א- יגאל אלון"
+  },
+  {
+    "StoreID": 230,
+    "StoreName": "230 - שלי כ\"ס- ויצמן"
+  },
+  {
+    "StoreID": 231,
+    "StoreName": "231 - אקספרס רעננה- רבקה גרובר"
+  },
+  {
+    "StoreID": 232,
+    "StoreName": "232 - שלי צפת- מ.מסחר רמת רזים"
+  },
+  {
+    "StoreID": 233,
+    "StoreName": "233 - BE באר שבע"
+  },
+  {
+    "StoreID": 234,
+    "StoreName": "234 - יש חסד רסידו"
+  },
+  {
+    "StoreID": 236,
+    "StoreName": "236 - אקספרס אילת שחמון"
+  },
+  {
+    "StoreID": 238,
+    "StoreName": "238 - דיל באר יעקב"
+  },
+  {
+    "StoreID": 239,
+    "StoreName": "239 - אקספרס יפו- הדרור"
+  },
+  {
+    "StoreID": 240,
+    "StoreName": "240 - דיל רהט"
+  },
+  {
+    "StoreID": 241,
+    "StoreName": "241 - דיל בני ברק איילון"
+  },
+  {
+    "StoreID": 242,
+    "StoreName": "242 - BE ויוה חדרה"
+  },
+  {
+    "StoreID": 244,
+    "StoreName": "244 - דיל גלילות רמת השרון"
+  },
+  {
+    "StoreID": 245,
+    "StoreName": "245 - דיל ירושלים- פסגת זאב"
+  },
+  {
+    "StoreID": 247,
+    "StoreName": "247 - שלי חולון- רבינוביץ"
+  },
+  {
+    "StoreID": 248,
+    "StoreName": "248 - דיל ב\"ש- נווה מנחם"
+  },
+  {
+    "StoreID": 249,
+    "StoreName": "249 - דיל נתניה- פולג"
+  },
+  {
+    "StoreID": 250,
+    "StoreName": "250 - קריית שמונה"
+  },
+  {
+    "StoreID": 251,
+    "StoreName": "251 - דיל עפולה- כורש"
+  },
+  {
+    "StoreID": 252,
+    "StoreName": "252 - BE עין שמר"
+  },
+  {
+    "StoreID": 254,
+    "StoreName": "254 - דיל כרמי גת"
+  },
+  {
+    "StoreID": 255,
+    "StoreName": "255 - דיל כפר תבור"
+  },
+  {
+    "StoreID": 256,
+    "StoreName": "256 - BE נס ציונה"
+  },
+  {
+    "StoreID": 259,
+    "StoreName": "259 - דיל גזית כ\"ס- ויצמן"
+  },
+  {
+    "StoreID": 260,
+    "StoreName": "260 - דיל ירושלים-קניון תלפיות"
+  },
+  {
+    "StoreID": 262,
+    "StoreName": "262 - שלי מזכרת בתיה- בגין"
+  },
+  {
+    "StoreID": 263,
+    "StoreName": "263 - שופרסלאקספרס מקס ברוד"
+  },
+  {
+    "StoreID": 265,
+    "StoreName": "265 - אקספרס חולון - זלמן ארן"
+  },
+  {
+    "StoreID": 266,
+    "StoreName": "266 - שלי רזין אילת"
+  },
+  {
+    "StoreID": 267,
+    "StoreName": "267 - דיל קצרין- חרמון"
+  },
+  {
+    "StoreID": 269,
+    "StoreName": "269 - יוניברס פ\"ת- סגולה"
+  },
+  {
+    "StoreID": 270,
+    "StoreName": "270 - BE חולון הפלד"
+  },
+  {
+    "StoreID": 271,
+    "StoreName": "271 - שלי רחובות- יעקובי"
+  },
+  {
+    "StoreID": 272,
+    "StoreName": "272 - שלי גבעתיים- ויצמן"
+  },
+  {
+    "StoreID": 274,
+    "StoreName": "274 - אקספרס ת\"א- פלורנטין"
+  },
+  {
+    "StoreID": 276,
+    "StoreName": "276 - יוניברס אמט\"ל רחובות"
+  },
+  {
+    "StoreID": 277,
+    "StoreName": "277 - אקספרס.בני בנימין הרצליה"
+  },
+  {
+    "StoreID": 278,
+    "StoreName": "278 - שלי פ\"ת -העצמאות"
+  },
+  {
+    "StoreID": 279,
+    "StoreName": "279 - אקספרס-ת\"א דרויאנוב"
+  },
+  {
+    "StoreID": 281,
+    "StoreName": "281 - דיל מגדל העמק- המדע"
+  },
+  {
+    "StoreID": 282,
+    "StoreName": "282 - דיל צומת גבעת מרדכי"
+  },
+  {
+    "StoreID": 283,
+    "StoreName": "283 - דיל קרית עקרון- ביל\"ו"
+  },
+  {
+    "StoreID": 284,
+    "StoreName": "284 - שלי תל מונד- הדקל"
+  },
+  {
+    "StoreID": 285,
+    "StoreName": "285 - אקספרס סוקולוב פ\"ת"
+  },
+  {
+    "StoreID": 287,
+    "StoreName": "287 - שלי גבעתיים-שביט"
+  },
+  {
+    "StoreID": 288,
+    "StoreName": "288 - יש רחובות- סירני"
+  },
+  {
+    "StoreID": 290,
+    "StoreName": "290 - דיל פ\"ת- יכין סנטר"
+  },
+  {
+    "StoreID": 295,
+    "StoreName": "295 - יש חסד בני ברק-שלמה המלך"
+  },
+  {
+    "StoreID": 296,
+    "StoreName": "296 - אקספרס פ\"ת רחל המשוררת"
+  },
+  {
+    "StoreID": 297,
+    "StoreName": "297 - יוניברס חדרה- ארבע האגודות"
+  },
+  {
+    "StoreID": 298,
+    "StoreName": "298 - BE אמות באר שבע"
+  },
+  {
+    "StoreID": 299,
+    "StoreName": "299 - אקספרס הוד השרון"
+  },
+  {
+    "StoreID": 300,
+    "StoreName": "300 - יש חסד בארות יצחק- פאוור"
+  },
+  {
+    "StoreID": 301,
+    "StoreName": "301 - אקספרס אחי מאיר"
+  },
+  {
+    "StoreID": 302,
+    "StoreName": "302 - שלי חיפה- קלר"
+  },
+  {
+    "StoreID": 303,
+    "StoreName": "303 - אקספרס טבעון - יהודה הנשיא"
+  },
+  {
+    "StoreID": 305,
+    "StoreName": "305 - אקספרס ת\"א- יהודה המכבי"
+  },
+  {
+    "StoreID": 306,
+    "StoreName": "306 - יש נוה שאנן חיפה- חניתה"
+  },
+  {
+    "StoreID": 307,
+    "StoreName": "307 - יש קרית אתא- זבולון"
+  },
+  {
+    "StoreID": 308,
+    "StoreName": "308 - שלי קרית אתא- איינשטין"
+  },
+  {
+    "StoreID": 310,
+    "StoreName": "310 - שלי קרית חיים- דגניה"
+  },
+  {
+    "StoreID": 311,
+    "StoreName": "311 - אקספרס רחובות- בוסתנאי"
+  },
+  {
+    "StoreID": 312,
+    "StoreName": "312 - דיל חיפה- קרית אליעזר"
+  },
+  {
+    "StoreID": 313,
+    "StoreName": "313 - שלי קרית חיים-אח\"י אילת"
+  },
+  {
+    "StoreID": 314,
+    "StoreName": "314 - יש חיפה- צרפת"
+  },
+  {
+    "StoreID": 315,
+    "StoreName": "315 - אקספרס כפר נטר"
+  },
+  {
+    "StoreID": 316,
+    "StoreName": "316 - שלי קרית מוצקין-שד ויצמן"
+  },
+  {
+    "StoreID": 317,
+    "StoreName": "317 - אקספרס גבעת עדה"
+  },
+  {
+    "StoreID": 318,
+    "StoreName": "318 - אקספרס חולון - וולפסון"
+  },
+  {
+    "StoreID": 319,
+    "StoreName": "319 - שלי עכו- שפירא"
+  },
+  {
+    "StoreID": 322,
+    "StoreName": "322 - גן העיר תל אביב"
+  },
+  {
+    "StoreID": 323,
+    "StoreName": "323 - שלי רסקו נצרת עילית-הדקל"
+  },
+  {
+    "StoreID": 325,
+    "StoreName": "325 - אקספרס ששת הימים נס ציונ"
+  },
+  {
+    "StoreID": 326,
+    "StoreName": "326 - שלי נהריה- הגעתון"
+  },
+  {
+    "StoreID": 327,
+    "StoreName": "327 - אקספרס חיפה- ראול ולנברג"
+  },
+  {
+    "StoreID": 329,
+    "StoreName": "329 - יש יוקנעם עילית- היובלים"
+  },
+  {
+    "StoreID": 330,
+    "StoreName": "330 - שלי חיפה- נתיב חן"
+  },
+  {
+    "StoreID": 331,
+    "StoreName": "331 - אקספרס ת\"א- תוספתא"
+  },
+  {
+    "StoreID": 333,
+    "StoreName": "333 - שלי חיפה- אורן"
+  },
+  {
+    "StoreID": 334,
+    "StoreName": "334 - אקספרס פ\"ת - שפירא"
+  },
+  {
+    "StoreID": 335,
+    "StoreName": "335 - אקספרס כ\"ס- בן גוריון"
+  },
+  {
+    "StoreID": 336,
+    "StoreName": "336 - שלי חיפה- רמות ספיר"
+  },
+  {
+    "StoreID": 338,
+    "StoreName": "338 - אקספרס כוכב הצפון"
+  },
+  {
+    "StoreID": 339,
+    "StoreName": "339 - דיל טבריה- העמקים"
+  },
+  {
+    "StoreID": 340,
+    "StoreName": "340 - אקספרס ת\"א- זריצקי"
+  },
+  {
+    "StoreID": 341,
+    "StoreName": "341 - אקספרס רמת גן- הרוא\"ה"
+  },
+  {
+    "StoreID": 342,
+    "StoreName": "342 - דיל כרמיאל- קניון לב"
+  },
+  {
+    "StoreID": 343,
+    "StoreName": "343 - שלי ראש העין- ברקן"
+  },
+  {
+    "StoreID": 344,
+    "StoreName": "344 - דיל מעלות- דרך האלוף עוז"
+  },
+  {
+    "StoreID": 345,
+    "StoreName": "345 - BE מידטאון"
+  },
+  {
+    "StoreID": 347,
+    "StoreName": "347 - אקספרס גדרה- דרך הפרחים"
+  },
+  {
+    "StoreID": 348,
+    "StoreName": "348 - אקספרס פ\"ת- קק\"ל"
+  },
+  {
+    "StoreID": 349,
+    "StoreName": "349 - יש חסד צפת- כנען"
+  },
+  {
+    "StoreID": 350,
+    "StoreName": "350 - דיל גבעת אולגה-הרב ניסים"
+  },
+  {
+    "StoreID": 352,
+    "StoreName": "352 - Be טייבה"
+  },
+  {
+    "StoreID": 353,
+    "StoreName": "353 - אקספרס יותם"
+  },
+  {
+    "StoreID": 354,
+    "StoreName": "354 - 'אקספרס ת\"א- קינג ג'ורג"
+  },
+  {
+    "StoreID": 357,
+    "StoreName": "357 - שלי צורן קדימה- לב השרון"
+  },
+  {
+    "StoreID": 359,
+    "StoreName": "359 - דיל חיפה- גרנד קניון"
+  },
+  {
+    "StoreID": 360,
+    "StoreName": "360 - אקספרס מאירוביץ ראשל\"צ"
+  },
+  {
+    "StoreID": 361,
+    "StoreName": "361 - דיל מגדל העמק- א ת דרומי"
+  },
+  {
+    "StoreID": 362,
+    "StoreName": "362 - אקספרס קרן היסוד ירושלים"
+  },
+  {
+    "StoreID": 364,
+    "StoreName": "364 - יש חסד בית וגן"
+  },
+  {
+    "StoreID": 365,
+    "StoreName": "365 - שלי פרדס חנה כרכור- קדמה"
+  },
+  {
+    "StoreID": 366,
+    "StoreName": "366 - שלי כפר ורדים- מרכז מסחר"
+  },
+  {
+    "StoreID": 368,
+    "StoreName": "368 - אקספרס-נשר מרגנית"
+  },
+  {
+    "StoreID": 369,
+    "StoreName": "369 - שלי שוהם- תרשיש"
+  },
+  {
+    "StoreID": 371,
+    "StoreName": "371 - שלי ברניצקי"
+  },
+  {
+    "StoreID": 372,
+    "StoreName": "372 - אקספרס בת ים- חשמונאים"
+  },
+  {
+    "StoreID": 374,
+    "StoreName": "374 - שלי הרצליה- הבנים"
+  },
+  {
+    "StoreID": 375,
+    "StoreName": "375 - אקספרס כ\"ס- הגליל"
+  },
+  {
+    "StoreID": 376,
+    "StoreName": "376 - אקספרס רעננה- משה דיין"
+  },
+  {
+    "StoreID": 377,
+    "StoreName": "377 - אקספרס ירושלים- הדסה"
+  },
+  {
+    "StoreID": 379,
+    "StoreName": "379 - אקספרס גבעתיים- כצנלסון"
+  },
+  {
+    "StoreID": 380,
+    "StoreName": "380 - אקספרס ת\"א- מרמורק"
+  },
+  {
+    "StoreID": 382,
+    "StoreName": "382 - אקספרס פ\"ת- היבנר"
+  },
+  {
+    "StoreID": 384,
+    "StoreName": "384 - אקספרס קרית ביאליק"
+  },
+  {
+    "StoreID": 385,
+    "StoreName": "385 - אקספרס מאיר יערי תל אביב"
+  },
+  {
+    "StoreID": 388,
+    "StoreName": "388 - אקספרס דניה"
+  },
+  {
+    "StoreID": 390,
+    "StoreName": "390 - שופרסל אקספרס אם המושבות"
+  },
+  {
+    "StoreID": 391,
+    "StoreName": "391 - אקספרס אלקנה"
+  },
+  {
+    "StoreID": 392,
+    "StoreName": "392 - BE שילת"
+  },
+  {
+    "StoreID": 393,
+    "StoreName": "393 - אקספרס להבים באר שבע"
+  },
+  {
+    "StoreID": 394,
+    "StoreName": "394 - אקספרס הכרמל כפר סבא"
+  },
+  {
+    "StoreID": 396,
+    "StoreName": "396 - דיל הקדר נתניה"
+  },
+  {
+    "StoreID": 397,
+    "StoreName": "397 - אקספרס פארק עפולה"
+  },
+  {
+    "StoreID": 398,
+    "StoreName": "398 - אקספרס אגמים"
+  },
+  {
+    "StoreID": 400,
+    "StoreName": "400 - אקספרס שבזי ראש העין"
+  },
+  {
+    "StoreID": 413,
+    "StoreName": "413 - שופרסל ONLINE"
+  },
+  {
+    "StoreID": 437,
+    "StoreName": "437 - BE אייס מול אילת"
+  },
+  {
+    "StoreID": 444,
+    "StoreName": "444 - אקספרס.ב\"ש אביסרור"
+  },
+  {
+    "StoreID": 445,
+    "StoreName": "445 - אקספרס רחובות"
+  },
+  {
+    "StoreID": 448,
+    "StoreName": "448 - שערי רווחה"
+  },
+  {
+    "StoreID": 476,
+    "StoreName": "476 - BE הוד השרון כיכר המושבה"
+  },
+  {
+    "StoreID": 477,
+    "StoreName": "477 - אקספרס הציפורים מודיעין"
+  },
+  {
+    "StoreID": 478,
+    "StoreName": "478 - אקספרס גדרה"
+  },
+  {
+    "StoreID": 479,
+    "StoreName": "479 - אקספרס בר אילן"
+  },
+  {
+    "StoreID": 482,
+    "StoreName": "482 - BE רמלה נווה דורון"
+  },
+  {
+    "StoreID": 485,
+    "StoreName": "485 - BE אשדוד בלה"
+  },
+  {
+    "StoreID": 489,
+    "StoreName": "489 - אקספרס מודיעין"
+  },
+  {
+    "StoreID": 496,
+    "StoreName": "496 - יש חסד כנפי נשרים"
+  },
+  {
+    "StoreID": 499,
+    "StoreName": "499 - יש חסד עפולה עילית"
+  },
+  {
+    "StoreID": 579,
+    "StoreName": "579 - אקספרס סביון"
+  },
+  {
+    "StoreID": 593,
+    "StoreName": "593 - יש חסד באר טוביה"
+  },
+  {
+    "StoreID": 595,
+    "StoreName": "595 - אקספרס בת חפר"
+  },
+  {
+    "StoreID": 596,
+    "StoreName": "596 - אקספרס אבן גבירול"
+  },
+  {
+    "StoreID": 598,
+    "StoreName": "598 - אקספרס הירדן"
+  },
+  {
+    "StoreID": 599,
+    "StoreName": "599 - אקספרס ההסתדרות"
+  },
+  {
+    "StoreID": 601,
+    "StoreName": "601 - BE פרדס חנה"
+  },
+  {
+    "StoreID": 602,
+    "StoreName": "602 - BE (פ.י) אשקלון מרינה"
+  },
+  {
+    "StoreID": 606,
+    "StoreName": "606 - יש חסד ביתשמש- מ. מסחרי"
+  },
+  {
+    "StoreID": 607,
+    "StoreName": "607 - יש חסד מודיעין עלי-ק.ספר"
+  },
+  {
+    "StoreID": 608,
+    "StoreName": "608 - יש חסד ירושלים-קרית שאול"
+  },
+  {
+    "StoreID": 609,
+    "StoreName": "609 - יש חסד אלעד-ניסים גאון"
+  },
+  {
+    "StoreID": 610,
+    "StoreName": "610 - יש חסד ירושלים- רמת שלמה"
+  },
+  {
+    "StoreID": 611,
+    "StoreName": "611 - יש חסד בני ברק- השומר"
+  },
+  {
+    "StoreID": 613,
+    "StoreName": "613 - BE נהריה"
+  },
+  {
+    "StoreID": 614,
+    "StoreName": "614 - BE נתניה"
+  },
+  {
+    "StoreID": 615,
+    "StoreName": "615 - BE כפר סבא"
+  },
+  {
+    "StoreID": 617,
+    "StoreName": "617 - BE נצרת"
+  },
+  {
+    "StoreID": 618,
+    "StoreName": "618 - BE ראשון לציון"
+  },
+  {
+    "StoreID": 620,
+    "StoreName": "620 - BEמלכת שבא אילת"
+  },
+  {
+    "StoreID": 621,
+    "StoreName": "621 - BE סינמה סיטי נתניה"
+  },
+  {
+    "StoreID": 623,
+    "StoreName": "623 - BE סביונים"
+  },
+  {
+    "StoreID": 631,
+    "StoreName": "631 - סניף וולפסון"
+  },
+  {
+    "StoreID": 633,
+    "StoreName": "633 - BE נשר תל-חנן"
+  },
+  {
+    "StoreID": 634,
+    "StoreName": "634 - BE בת ים"
+  },
+  {
+    "StoreID": 635,
+    "StoreName": "635 - BE 16 ראש-פינה"
+  },
+  {
+    "StoreID": 637,
+    "StoreName": "637 - BE רעננה"
+  },
+  {
+    "StoreID": 638,
+    "StoreName": "638 - BE משמר השרון"
+  },
+  {
+    "StoreID": 639,
+    "StoreName": "639 - BE אריאל"
+  },
+  {
+    "StoreID": 640,
+    "StoreName": "640 - BE דלית אל כרמל"
+  },
+  {
+    "StoreID": 641,
+    "StoreName": "641 - BEגבעתיים"
+  },
+  {
+    "StoreID": 642,
+    "StoreName": "642 - BE אלונים- טבעון"
+  },
+  {
+    "StoreID": 643,
+    "StoreName": "643 - BE פתח תקוה"
+  },
+  {
+    "StoreID": 645,
+    "StoreName": "645 - BE גבעת שמואל"
+  },
+  {
+    "StoreID": 648,
+    "StoreName": "648 - BE מאיר-כפר סבא"
+  },
+  {
+    "StoreID": 649,
+    "StoreName": "649 - BE עכו"
+  },
+  {
+    "StoreID": 650,
+    "StoreName": "650 - BE חיפה"
+  },
+  {
+    "StoreID": 651,
+    "StoreName": "651 - BE דרורים"
+  },
+  {
+    "StoreID": 652,
+    "StoreName": "652 - BE מודיעין"
+  },
+  {
+    "StoreID": 653,
+    "StoreName": "653 - BE בני-ברק"
+  },
+  {
+    "StoreID": 654,
+    "StoreName": "654 - BE אם המושבות"
+  },
+  {
+    "StoreID": 655,
+    "StoreName": "655 - BE רחובות מזרח"
+  },
+  {
+    "StoreID": 656,
+    "StoreName": "656 - סניף בן יהודה"
+  },
+  {
+    "StoreID": 658,
+    "StoreName": "658 - BE קריית אתא"
+  },
+  {
+    "StoreID": 659,
+    "StoreName": "659 - BE הדר"
+  },
+  {
+    "StoreID": 660,
+    "StoreName": "660 - סניף רמת השרון"
+  },
+  {
+    "StoreID": 662,
+    "StoreName": "662 - BE בית חולים אשדוד"
+  },
+  {
+    "StoreID": 664,
+    "StoreName": "664 - BE בית חולים שערי צדק ירושלים"
+  },
+  {
+    "StoreID": 665,
+    "StoreName": "665 - BE חשמונאים"
+  },
+  {
+    "StoreID": 666,
+    "StoreName": "666 - BE עזריאלי מודיעין"
+  },
+  {
+    "StoreID": 667,
+    "StoreName": "667 - BE מדיקל הלל יפה חדרה"
+  },
+  {
+    "StoreID": 668,
+    "StoreName": "668 - BE קריית השרון נתניה"
+  },
+  {
+    "StoreID": 670,
+    "StoreName": "670 - BE (פ.י) איכילוב"
+  },
+  {
+    "StoreID": 672,
+    "StoreName": "672 - סניף אשדוד סיטי"
+  },
+  {
+    "StoreID": 673,
+    "StoreName": "673 - BE 59 פנורמה חיפה"
+  },
+  {
+    "StoreID": 674,
+    "StoreName": "674 - BE תל ברוך"
+  },
+  {
+    "StoreID": 675,
+    "StoreName": "675 - BE 61 שרונים"
+  },
+  {
+    "StoreID": 676,
+    "StoreName": "676 - BE יוקנעם"
+  },
+  {
+    "StoreID": 677,
+    "StoreName": "677 - BE הרצליה"
+  },
+  {
+    "StoreID": 678,
+    "StoreName": "678 - BE עפולה"
+  },
+  {
+    "StoreID": 679,
+    "StoreName": "679 - BE כרכור מדיקל"
+  },
+  {
+    "StoreID": 681,
+    "StoreName": "681 - BE שהם"
+  },
+  {
+    "StoreID": 682,
+    "StoreName": "682 - BE כפר סבא צפון"
+  },
+  {
+    "StoreID": 684,
+    "StoreName": "684 - Be שדרות"
+  },
+  {
+    "StoreID": 685,
+    "StoreName": "685 - BE אזורי חן"
+  },
+  {
+    "StoreID": 688,
+    "StoreName": "688 - BE מדיקל-בלינסון פ\"ת"
+  },
+  {
+    "StoreID": 691,
+    "StoreName": "691 - Be (פ.י) אשדוד מדיקל"
+  },
+  {
+    "StoreID": 695,
+    "StoreName": "695 - BE אסותא רמת החייל"
+  },
+  {
+    "StoreID": 696,
+    "StoreName": "696 - BE מדיקל-אלעד"
+  },
+  {
+    "StoreID": 697,
+    "StoreName": "697 - BE ירכא"
+  },
+  {
+    "StoreID": 698,
+    "StoreName": "698 - BE כרמיאל"
+  },
+  {
+    "StoreID": 712,
+    "StoreName": "712 - BE עין היםחדרה"
+  },
+  {
+    "StoreID": 713,
+    "StoreName": "713 - BE אור ים"
+  },
+  {
+    "StoreID": 714,
+    "StoreName": "714 - Be סכנין"
+  },
+  {
+    "StoreID": 715,
+    "StoreName": "715 - BE אגמים"
+  },
+  {
+    "StoreID": 716,
+    "StoreName": "716 - Be mall 7 באר שבע"
+  },
+  {
+    "StoreID": 734,
+    "StoreName": "734 - גוד מרקט גאולה חיפה"
+  },
+  {
+    "StoreID": 740,
+    "StoreName": "740 - אקספרס שלמה המלך"
+  },
+  {
+    "StoreID": 741,
+    "StoreName": "741 - אקספרס יצחק רבין"
+  },
+  {
+    "StoreID": 742,
+    "StoreName": "742 - אקספרס נווה אביבים"
+  },
+  {
+    "StoreID": 743,
+    "StoreName": "743 - אקספרס קריית גת"
+  },
+  {
+    "StoreID": 748,
+    "StoreName": "748 - BE שבעת הכוכבים אילת"
+  },
+  {
+    "StoreID": 750,
+    "StoreName": "750 - גוד מרקט שירת הים"
+  },
+  {
+    "StoreID": 752,
+    "StoreName": "752 - אקספרס כפר סבא דוכיפת"
+  },
+  {
+    "StoreID": 753,
+    "StoreName": "753 - גוד מרקט רש\"י ירושלים"
+  },
+  {
+    "StoreID": 757,
+    "StoreName": "757 - אקספרס קריית אונו"
+  },
+  {
+    "StoreID": 762,
+    "StoreName": "762 - BE אוסישקין"
+  },
+  {
+    "StoreID": 763,
+    "StoreName": "763 - BE שפרעם"
+  },
+  {
+    "StoreID": 764,
+    "StoreName": "764 - BE סטאר אשדוד"
+  },
+  {
+    "StoreID": 765,
+    "StoreName": "765 - יש חסד בן איש חי"
+  },
+  {
+    "StoreID": 768,
+    "StoreName": "768 - אקספרס קרניצי רמת גן"
+  },
+  {
+    "StoreID": 771,
+    "StoreName": "771 - גוד מרקט בני ברק"
+  },
+  {
+    "StoreID": 772,
+    "StoreName": "772 - גוד מרקט מאה שערים"
+  },
+  {
+    "StoreID": 773,
+    "StoreName": "773 - GOOD MARKET אהבת שלום בית שמש"
+  },
+  {
+    "StoreID": 776,
+    "StoreName": "776 - BE טירה"
+  },
+  {
+    "StoreID": 777,
+    "StoreName": "777 - אקספרס נרקיסים"
+  },
+  {
+    "StoreID": 778,
+    "StoreName": "778 - GOOD MARKET אהליאב ירושלים"
+  },
+  {
+    "StoreID": 779,
+    "StoreName": "779 - אקספרס יבנה"
+  },
+  {
+    "StoreID": 780,
+    "StoreName": "780 - אקספרס המעפיל רמת גן"
+  },
+  {
+    "StoreID": 781,
+    "StoreName": "781 - BE פרישמן ת\"א"
+  },
+  {
+    "StoreID": 782,
+    "StoreName": "782 - BE ראשון לציון"
+  },
+  {
+    "StoreID": 783,
+    "StoreName": "783 - BE מודיעין"
+  },
+  {
+    "StoreID": 784,
+    "StoreName": "784 - BE כפר גנים"
+  },
+  {
+    "StoreID": 785,
+    "StoreName": "785 - BE מעלה אדומים"
+  },
+  {
+    "StoreID": 786,
+    "StoreName": "786 - BE קרית גת-כרמי גת"
+  },
+  {
+    "StoreID": 787,
+    "StoreName": "787 - BE אריאל"
+  },
+  {
+    "StoreID": 788,
+    "StoreName": "788 - BE אפרת"
+  },
+  {
+    "StoreID": 789,
+    "StoreName": "789 - גוד מרקט אופקים"
+  },
+  {
+    "StoreID": 790,
+    "StoreName": "790 - דיל רמלה"
+  },
+  {
+    "StoreID": 842,
+    "StoreName": "842 - אקספרס מטודלה תל אביב"
+  },
+  {
+    "StoreID": 843,
+    "StoreName": "843 - גוד מרקט בית שמש"
+  },
+  {
+    "StoreID": 844,
+    "StoreName": "844 - אקספרס נגבה רמת גן"
+  },
+  {
+    "StoreID": 845,
+    "StoreName": "845 - אקספרס נחשון כפר סבא"
+  },
+  {
+    "StoreID": 846,
+    "StoreName": "846 - אקספרס אור ים"
+  },
+  {
+    "StoreID": 854,
+    "StoreName": "854 - דיל גבעת אלונים"
+  }
+]

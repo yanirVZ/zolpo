@@ -1,0 +1,2136 @@
+{
+    "Stores7290803800003-202504180100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504190100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504200100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504210100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504220100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504230100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504240100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504250100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504260100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504270100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ],
+    "Stores7290803800003-202504280100.json": [
+        {
+            "StoreID": "1",
+            "StoreName": "יוחננוף מפוח"
+        },
+        {
+            "StoreID": "2",
+            "StoreName": "יוחננוף ישן"
+        },
+        {
+            "StoreID": "4",
+            "StoreName": "בילו"
+        },
+        {
+            "StoreID": "5",
+            "StoreName": "אשדוד"
+        },
+        {
+            "StoreID": "7",
+            "StoreName": "עקרון"
+        },
+        {
+            "StoreID": "8",
+            "StoreName": "אחד העם"
+        },
+        {
+            "StoreID": "9",
+            "StoreName": "נתיבות"
+        },
+        {
+            "StoreID": "12",
+            "StoreName": "רמלה"
+        },
+        {
+            "StoreID": "13",
+            "StoreName": "חוצות המפרץ"
+        },
+        {
+            "StoreID": "15",
+            "StoreName": "אור יהודה"
+        },
+        {
+            "StoreID": "16",
+            "StoreName": "גן יבנה"
+        },
+        {
+            "StoreID": "17",
+            "StoreName": "מודיעין ישפרו"
+        },
+        {
+            "StoreID": "18",
+            "StoreName": "מודיעין כרמים"
+        },
+        {
+            "StoreID": "19",
+            "StoreName": "אור יהודה גדול"
+        },
+        {
+            "StoreID": "20",
+            "StoreName": "ירושלים תלפיות"
+        },
+        {
+            "StoreID": "21",
+            "StoreName": "סגולה פתח תקווה"
+        },
+        {
+            "StoreID": "22",
+            "StoreName": "חדרה"
+        },
+        {
+            "StoreID": "23",
+            "StoreName": "טבריה"
+        },
+        {
+            "StoreID": "24",
+            "StoreName": "כפר סבא"
+        },
+        {
+            "StoreID": "25",
+            "StoreName": "נס ציונה"
+        },
+        {
+            "StoreID": "26",
+            "StoreName": "רמת השרון"
+        },
+        {
+            "StoreID": "27",
+            "StoreName": "יד אליהו"
+        },
+        {
+            "StoreID": "28",
+            "StoreName": "ראשלצ רמת אליהו"
+        },
+        {
+            "StoreID": "29",
+            "StoreName": "בת ים"
+        },
+        {
+            "StoreID": "30",
+            "StoreName": "נתניה"
+        },
+        {
+            "StoreID": "31",
+            "StoreName": "מרכז סנטרו רחובות"
+        },
+        {
+            "StoreID": "32",
+            "StoreName": "בן צבי תל אביב"
+        },
+        {
+            "StoreID": "33",
+            "StoreName": "איירפורט סיטי"
+        },
+        {
+            "StoreID": "34",
+            "StoreName": "מבקיעים אשקלון"
+        },
+        {
+            "StoreID": "35",
+            "StoreName": "תל אביב  נחלת יצחק"
+        },
+        {
+            "StoreID": "36",
+            "StoreName": "חדרה צפוני"
+        },
+        {
+            "StoreID": "37",
+            "StoreName": "עפולה"
+        },
+        {
+            "StoreID": "38",
+            "StoreName": "טבריה תחתית"
+        },
+        {
+            "StoreID": "39",
+            "StoreName": "קרית שמונה"
+        },
+        {
+            "StoreID": "40",
+            "StoreName": "באר שבע"
+        },
+        {
+            "StoreID": "41",
+            "StoreName": "אשקלון ברנע"
+        },
+        {
+            "StoreID": "42",
+            "StoreName": "קניון הבאר"
+        },
+        {
+            "StoreID": "46",
+            "StoreName": "מישור אדומים"
+        },
+        {
+            "StoreID": "48",
+            "StoreName": "אשדות יעקב"
+        },
+        {
+            "StoreID": "50",
+            "StoreName": "נתניה הדרים"
+        },
+        {
+            "StoreID": "51",
+            "StoreName": "שדרות"
+        },
+        {
+            "StoreID": "52",
+            "StoreName": "גדרה"
+        },
+        {
+            "StoreID": "53",
+            "StoreName": "רעננה"
+        },
+        {
+            "StoreID": "54",
+            "StoreName": "ת\"א - אחד העם"
+        },
+        {
+            "StoreID": "55",
+            "StoreName": "נתיבות מנהטן"
+        },
+        {
+            "StoreID": "59",
+            "StoreName": "אור עקיבא -שקמים"
+        },
+        {
+            "StoreID": "60",
+            "StoreName": "בית שאן"
+        },
+        {
+            "StoreID": "150",
+            "StoreName": "הדרים פיקאפ"
+        }
+    ]
+}

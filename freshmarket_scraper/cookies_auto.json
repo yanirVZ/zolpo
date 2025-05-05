@@ -1,0 +1,11 @@
+[
+    {
+        "domain": "url.publishedprices.co.il",
+        "httpOnly": true,
+        "name": "cftpSID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "OGcOLJ5o-Jt5rSh4zWEbTBXu8sJav7NXrBfFBBV2FfA"
+    }
+]

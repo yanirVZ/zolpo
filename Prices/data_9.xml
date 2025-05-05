@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>006</SubChainId>
+  <StoreId>021</StoreId>
+  <BikoretNo>3</BikoretNo>
+  <DllVerNo>8.0.1.3</DllVerNo>
+  <Items Count="1">
+    <Item>
+      <PriceUpdateDate>2025-03-19 10:00</PriceUpdateDate>
+      <ItemCode>4607001779698</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>ג'ייקובס קפה נמס אינטנס</ItemName>
+      <ManufacturerName>JDE</ManufacturerName>
+      <ManufactureCountry>RU</ManufactureCountry>
+      <ManufacturerItemDescription>גייקובס קפה נמס אינטנס</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>190.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>10.00</ItemPrice>
+      <UnitOfMeasurePrice>5.26</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+  </Items>
+</root>
