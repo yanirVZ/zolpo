@@ -3,8 +3,8 @@ import gzip
 import json
 import xmltodict
 
-INPUT_FOLDER = r"C:\zolpo\shufersal\gz_files"
-OUTPUT_FOLDER = r"C:\zolpo\shufersal\json_files"
+INPUT_FOLDER = r"C:\zolpo\shufersal\gz_files_names"
+OUTPUT_FOLDER = r"C:\zolpo\shufersal\json_files_names"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 def is_gzip(path):

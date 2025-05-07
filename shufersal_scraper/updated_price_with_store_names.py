@@ -22,8 +22,8 @@ def update_price_files():
         print("❌ מיפוי הסניפים ריק — מפסיקים תהליך.")
         return
 
-    input_folder = r"C:\zolpo\shufersal\json_files"
-    output_folder = r"C:\zolpo\shufersal\json_files_updated"
+    input_folder = r"C:\zolpo\shufersal\json_files_names"
+    output_folder = r"C:\zolpo\shufersal\json_files_updated_names"
     os.makedirs(output_folder, exist_ok=True)
 
     updated_files = 0

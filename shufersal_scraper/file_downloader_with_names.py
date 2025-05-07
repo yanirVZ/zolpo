@@ -1,16 +1,33 @@
 import requests
 import os
+import re
 
 # נתיב שמירה
-FOLDER = r"C:\zolpo\shufersal\promo_gz_files"
-LINKS_FILE = "promo_price_links_45_80.txt"
+FOLDER = r"C:\zolpo\shufersal\gz_files_names"
+LINKS_FILE = "valid_links.txt"
+
+def extract_info_from_url(url):
+    # זיהוי הקטגוריה
+    category = "unknown"
+    if "pricefull" in url.lower():
+        category = "pricefull"
+    elif "price" in url.lower():
+        category = "price"
+
+    # חילוץ מספר הסניף - שלוש ספרות אחרי המינוס הראשון
+    match = re.search(r'-0*(\d{1,3})-', url)
+    store_id = match.group(1).zfill(3) if match else "unknown"
+
+    return category, store_id
 
 def file_downloader(urls):
     if not os.path.exists(FOLDER):
         os.makedirs(FOLDER)
 
     for i, url in enumerate(urls, start=1):
-        gz_file = os.path.join(FOLDER, f"promo_file_{i}.gz")
+        category, store_id = extract_info_from_url(url)
+        filename = f"price_file_{i}_{category}_{store_id}.gz"
+        gz_file = os.path.join(FOLDER, filename)
 
         try:
             print(f"📥 מוריד: {url}")
